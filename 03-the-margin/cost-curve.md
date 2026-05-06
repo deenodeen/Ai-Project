@@ -34,6 +34,18 @@
 | Model provider raises prices 50% | | |
 
 ## Board One-Pager
+
+
+Leader
+_____
+Filler
+_____
+Killer
+_____
+Killer usage %
+_____
+Bundle or add-on
+_____
 <!-- Before/After: Old SaaS revenue vs. AI usage revenue for your product -->
 
 **Before (traditional SaaS):**
